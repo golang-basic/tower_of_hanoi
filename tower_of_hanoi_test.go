@@ -1,7 +1,7 @@
 package tower_of_hanoi_test
 
 import (
-	. "github.com/gobasic/game/tower_of_hanoi"
+	. "github.com/golang-basic/game/tower_of_hanoi"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
